@@ -1,0 +1,20 @@
+{
+  "short_name": "IBG",
+  "name": "Igreja Batista Graça",
+  "icons": [
+    {
+      "src": "logo.jpeg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo.jpeg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
